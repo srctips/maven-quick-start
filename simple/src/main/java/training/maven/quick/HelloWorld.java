@@ -1,6 +1,7 @@
-public class HelloWorld {
+package training.maven.quick;
 
-    // method main(): ALWAYS the APPLICATION entry point
+public class HelloWorld {
+	
     public static void main (String[] args) {
 		System.out.println ("Hello World!");
     }
