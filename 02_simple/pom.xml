@@ -9,6 +9,11 @@
   <description>
 	This project is a simple example Maven project designed
 	to work with Java applications packaged into a JAR file.
-  </decription>
+  </description>
+  <inceptionYear>2015</inceptionYear>
   <url>http://maven.training/</url>
+  
+  <build>
+	<finalName>example</finalName>
+  </build>
 </project>
